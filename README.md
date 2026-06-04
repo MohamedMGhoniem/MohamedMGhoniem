@@ -194,7 +194,7 @@ const developer = {
   <br/><br/>
 
   <a href="https://github.com/MohamedMGhoniem/Dashboard-Next.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=Dashboard-Next.js&theme=transparent" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MohamedMGhoniem&repo=Dashboard-Next.js" />
   </a>
 
 </p>
