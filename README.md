@@ -19,19 +19,19 @@
 <br/>
 
 <!-- Social links -->
-<a href="https://yourportfolio.com">
+<a href="https://ghoniem.dev">
   <img src="https://img.shields.io/badge/Portfolio-efc983?style=for-the-badge&logo=firefox-browser&logoColor=412d00&labelColor=efc983" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:you@email.com">
+<a href="mailto:ghoniemmohamed416@gmail.com">
   <img src="https://img.shields.io/badge/Email-201f1f?style=for-the-badge&logo=gmail&logoColor=efc983&labelColor=201f1f" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/yourhandle">
+<a href="https://www.linkedin.com/in/mohamed-ghoniem-96b307285/">
   <img src="https://img.shields.io/badge/LinkedIn-201f1f?style=for-the-badge&logo=linkedin&logoColor=efc983&labelColor=201f1f" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/yourhandle">
+<a href="https://x.com/MohamedmGhoniem">
   <img src="https://img.shields.io/badge/Twitter-201f1f?style=for-the-badge&logo=x&logoColor=efc983&labelColor=201f1f" alt="Twitter"/>
 </a>
 
@@ -160,13 +160,13 @@ const developer = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=131313&ring_color=efc983&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedMGhoniem&show_icons=true&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=131313&ring_color=efc983&include_all_commits=true&count_private=true" alt="GitHub stats"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&title_color=efc983&text_color=d0c5af&bg_color=131313&langs_count=6" alt="Top languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMGhoniem&layout=compact&theme=transparent&hide_border=true&title_color=efc983&text_color=d0c5af&bg_color=131313&langs_count=6" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=transparent&hide_border=true&stroke=4d4635&ring=efc983&fire=efc983&currStreakLabel=efc983&sideLabels=d0c5af&currStreakNum=e5e2e1&sideNums=e5e2e1&dates=99907c&background=131313" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedMGhoniem&theme=transparent&hide_border=true&stroke=4d4635&ring=efc983&fire=efc983&currStreakLabel=efc983&sideLabels=d0c5af&currStreakNum=e5e2e1&sideNums=e5e2e1&dates=99907c&background=131313" alt="GitHub streak"/>
 
 </div>
 
@@ -177,7 +177,7 @@ const developer = {
 <!-- Activity graph -->
 ## &nbsp;📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=131313&color=d0c5af&line=efc983&point=efc983&area=true&area_color=efc983&hide_border=true&radius=4" width="100%" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedMGhoniem&bg_color=131313&color=d0c5af&line=efc983&point=efc983&area=true&area_color=efc983&hide_border=true&radius=4" width="100%" alt="Contribution graph"/>
 
 <br/>
 
@@ -209,11 +209,11 @@ const developer = {
 
 <p>Have a project in mind? I'd love to hear about it.</p>
 
-<a href="mailto:you@email.com">
+<a href="mailto:ghoniemmohamed416@gmail.com">
   <img src="https://img.shields.io/badge/Send%20me%20an%20email-efc983?style=for-the-badge&logo=gmail&logoColor=412d00" alt="Email me"/>
 </a>
 &nbsp;
-<a href="https://yourportfolio.com">
+<a href="https://ghoniem.dev">
   <img src="https://img.shields.io/badge/View%20my%20portfolio-201f1f?style=for-the-badge&logo=firefox-browser&logoColor=efc983" alt="Portfolio"/>
 </a>
 
