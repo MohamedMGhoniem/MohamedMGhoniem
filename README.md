@@ -5,7 +5,7 @@
 
 <!-- Name & title -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Epilogue&weight=700&size=32&pause=1000&color=EFC983&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+BMohamed+Ghoniem+%F0%9F%91%8B;MERN+Stack+Engineer;UI+%2F+UX+Designer;Performance+Obsessed" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Epilogue&weight=700&size=32&pause=1000&color=EFC983&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohamed+Ghoniem+%F0%9F%91%8B;MERN+Stack+Engineer;UI+%2F+UX+Designer;Performance+Obsessed" alt="Typing intro" />
 </h1>
 
 <p>
