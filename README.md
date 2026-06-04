@@ -188,16 +188,28 @@ const developer = {
 <p align="center">
 
   <a href="https://github.com/MohamedMGhoniem/forkify-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=forkify-app&theme=transparent" />
+    <img src="https://img.shields.io/badge/Forkify-App-efc983?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
 
-  <br/><br/>
-
   <a href="https://github.com/MohamedMGhoniem/Dashboard-Next.js">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MohamedMGhoniem&repo=Dashboard-Next.js" />
+    <img src="https://img.shields.io/badge/Dashboard-Next.js-1c1b1b?style=for-the-badge&logo=next.js&logoColor=white" />
   </a>
 
 </p>
+
+---
+
+### 🍴 Forkify App
+A modern recipe application built with JavaScript, featuring API integration and dynamic UI rendering.
+
+🔗 https://github.com/MohamedMGhoniem/forkify-app
+
+---
+
+### 📊 Dashboard (Next.js)
+A responsive admin dashboard built with Next.js, focused on UI/UX and modern web practices.
+
+🔗 https://github.com/MohamedMGhoniem/Dashboard-Next.js
 
 ---
 
