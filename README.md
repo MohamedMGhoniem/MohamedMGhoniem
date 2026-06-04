@@ -13,7 +13,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-Egypt-efc983?style=flat-square&labelColor=131313" alt="Location"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=efc983&labelColor=131313&label=Profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MohamedMGhoniem&style=flat-square&color=efc983&labelColor=131313&label=Profile+views" alt="Profile views"/>
 </p>
 
 <br/>
@@ -160,13 +160,13 @@ const developer = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamedMGhoniem&show_icons=true&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=131313&ring_color=efc983&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedMGhoniem&show_icons=true&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=131313&ring_color=efc983&include_all_commits=true&count_private=true" alt="GitHub stats"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMGhoniem&layout=compact&theme=transparent&hide_border=true&title_color=efc983&text_color=d0c5af&bg_color=131313&langs_count=6" alt="Top languages"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedMGhoniem&layout=compact&theme=transparent&hide_border=true&title_color=efc983&text_color=d0c5af&bg_color=131313&langs_count=6" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedMGhoniem&theme=transparent&hide_border=true&stroke=4d4635&ring=efc983&fire=efc983&currStreakLabel=efc983&sideLabels=d0c5af&currStreakNum=e5e2e1&sideNums=e5e2e1&dates=99907c&background=131313" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=MohamedMGhoniem&theme=transparent&hide_border=true&stroke=4d4635&ring=efc983&fire=efc983&currStreakLabel=efc983&sideLabels=d0c5af&currStreakNum=e5e2e1&sideNums=e5e2e1&dates=99907c&background=131313" alt="GitHub streak"/>
 
 </div>
 
@@ -189,11 +189,11 @@ const developer = {
 <div align="center">
 
 <a href="https://github.com/yourusername/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=1c1b1b&border_radius=8" alt="Project One"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=project-one&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=1c1b1b&border_radius=8" alt="Project One"/>
 </a>
 &nbsp;
 <a href="https://github.com/yourusername/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=1c1b1b&border_radius=8" alt="Project Two"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=project-two&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=1c1b1b&border_radius=8" alt="Project Two"/>
 </a>
 
 </div>
