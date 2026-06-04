@@ -186,15 +186,17 @@ const developer = {
 ## 🗂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/MohamedMGhoniem/forkify-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=forkify-app&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=1c1b1b&border_radius=8" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/MohamedMGhoniem/Dashboard-Next.js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=Dashboard-Next.js&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=1c1b1b&border_radius=8" />
+  <a href="https://github.com/MohamedMGhoniem/forkify-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=forkify-app&theme=transparent" />
   </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/MohamedMGhoniem/Dashboard-Next.js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=Dashboard-Next.js&theme=transparent" />
+  </a>
+
 </p>
 
 ---
