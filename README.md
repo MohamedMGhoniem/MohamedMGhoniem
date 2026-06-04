@@ -46,7 +46,7 @@
 
 ```ts
 const developer = {
-  name:       "Your Name",
+  name:       "Mohamed Ghoniem",
   role:       ["Frontend Engineer", "Backend Engineer", "UI/UX Designer"],
   location:   "Egypt 🇪🇬",
   focus:      ["Performance", "Accessibility", "Clean Architecture"],
