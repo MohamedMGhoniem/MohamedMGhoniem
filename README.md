@@ -185,15 +185,17 @@ const developer = {
 
 ## 🗂 Featured Projects
 
-### 🔹 Forkify App
-A modern recipe application built with JavaScript.
-- 🔗 https://github.com/MohamedMGhoniem/forkify-app
+<p align="center">
+  <a href="https://github.com/MohamedMGhoniem/forkify-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=forkify-app&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=1c1b1b&border_radius=8" />
+  </a>
+</p>
 
----
-
-### 🔹 Dashboard (Next.js)
-A responsive admin dashboard built with Next.js.
-- 🔗 https://github.com/MohamedMGhoniem/Dashboard-Next.js
+<p align="center">
+  <a href="https://github.com/MohamedMGhoniem/Dashboard-Next.js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedMGhoniem&repo=Dashboard-Next.js&theme=transparent&hide_border=true&title_color=efc983&icon_color=efc983&text_color=d0c5af&bg_color=1c1b1b&border_radius=8" />
+  </a>
+</p>
 
 ---
 
